@@ -1,2 +1,2 @@
 # Rain-sensor
-by: mike green
+ty: mike green
