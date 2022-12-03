@@ -1,5 +1,3 @@
-Pi Rain Sensor
-==============
 
 ## Overview
 
